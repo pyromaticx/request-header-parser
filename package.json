@@ -1,0 +1,14 @@
+{
+  "name": "headparse",
+  "version": "1.0.0",
+  "description": "A request header parser microservice API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kelly Garrett",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
